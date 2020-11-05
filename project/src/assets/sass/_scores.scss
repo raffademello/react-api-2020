@@ -1,9 +1,0 @@
-.news-wrap{
-    @include display-flex;
-    @include flex-wrap(wrap);
-    @include justify-content(space-between);
-    @include align-items(flex-start);
-    >div{
-        padding:10px 0;
-    }
-}
