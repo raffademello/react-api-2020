@@ -40,7 +40,7 @@ const UpgradePlan = props => {
       <div className={classes.media}>
         <img
           alt="Upgrade to PRO"
-          src="/images/undraw_resume_folder_2_arse.svg"
+          src="/react-api-2020/images/undraw_resume_folder_2_arse.svg"
         />
       </div>
       <div className={classes.content}>

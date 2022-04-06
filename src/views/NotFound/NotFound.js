@@ -44,7 +44,7 @@ const NotFound = () => {
             <img
               alt="Under development"
               className={classes.image}
-              src="/images/undraw_page_not_found_su7k.svg"
+              src="/react-api-2020/images/undraw_page_not_found_su7k.svg"
             />
           </div>
         </Grid>

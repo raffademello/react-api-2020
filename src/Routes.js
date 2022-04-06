@@ -22,7 +22,7 @@ const Routes = () => {
     <Switch>
       <Redirect
         exact
-        from="/"
+        from="/react-api-2020/"
         to="/dashboard"
       />
       <RouteWithLayout
@@ -35,7 +35,7 @@ const Routes = () => {
         component={TarefaListView}
         exact
         layout={MainLayout}
-        path="/users"
+        path="/tarefas"
       />
       <RouteWithLayout
         component={NotFoundView}

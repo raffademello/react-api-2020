@@ -44,8 +44,8 @@ const Sidebar = props => {
       icon: <DashboardIcon />
     },
     {
-      title: 'Users',
-      href: '/users',
+      title: 'Tarefas',
+      href: '/tarefas',
       icon: <PeopleIcon />
     },
     {
